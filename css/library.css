@@ -1,0 +1,352 @@
+/* body elements */
+.login_body{
+    background-image: url("../images/login_signup_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.signup_body{
+    background-image: url("../images/login_signup_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.home_body{
+    background-image: url("../images/users_welcome_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.welcome_body{
+    background-image: url("../images/users_welcome_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.about_body{
+    background-image: url("../images/users_welcome_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.contact_body{
+    background-image: url("../images/users_welcome_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.account_body{
+    background-image: url("../images/users_welcome_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+.reset_body{
+    background-image: url("../images/login_signup_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+/* loginsystem div elements */
+.login{
+    position: relative;
+    top: 56px;
+    padding-bottom: 30px;
+    padding-top: 64px
+}
+
+.signup{
+    position: relative;
+    top: 56px;
+    padding-bottom: 31px;
+    padding-top: 53px
+}
+
+.account{
+    position: relative;
+    top: 56px;
+    padding-bottom: 28px;
+    padding-top: 32px
+}
+
+.account_container{
+    max-width: 950px;
+}
+
+.login_card{
+    border: none;
+    max-width: 650px;
+}
+
+.signup_card{
+    border: none;
+    max-width: 675px;
+}
+
+
+/* image */
+.login_image{
+    background-image: url("../images/login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 536px;
+}
+
+.signup_image{
+    background-image: url("../images/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 629px;
+}
+
+.welcome_image{
+    background-image: url("../images/welcome_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+}
+
+.welcome_key_image {
+    background-image: url("../images/welcome_key_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+}
+
+.welcome_user_image{
+    background-image: url("../images/welcome_user_image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+}
+
+/* span_border*/
+.border-t{
+    width: 18%;
+    position: relative;
+    top: 12px;
+}
+
+.border-b{
+    width: 25%;
+    position: relative;
+    top: 12px;
+}
+
+.border-ind{
+    width: 25%;
+    position: relative;
+    top: 12px;
+}
+
+.border-w{
+    width: 33%;
+    position: relative;
+    top: 18px;
+}
+
+.border-account{
+    width: 35%;
+    position: relative;
+    top: 12px;
+}
+
+/* login btn margin */
+.mt-46{
+    margin-top: 46px;
+}
+
+.mt-36{
+    margin-top: 36px;
+}
+
+.mt-12{
+    margin-top: 12px;
+}
+
+/* anchor elements */
+a._anchor:link{
+    text-decoration: none;
+}
+
+
+._anchor{
+    font-size: 12px;
+}
+
+a.contact_anchor:link{
+    text-decoration: none;
+}
+
+a.forgot_password:link{
+    text-decoration: none;
+}
+
+a.fs-14{
+    font-size: 14px;
+}
+
+/* about div */
+.about_intro{
+    position: relative;
+    top: 86px;
+}
+
+.about-footer{
+    position: relative;
+    top: 278px;
+}
+
+/* contact div */
+.contact_intro{
+    position: relative;
+    top: 56px;
+}
+
+.contact_footer{
+    position: relative;
+    top: 75px;
+}
+
+/* user intro image */
+.intro{
+    position: relative;
+    top: 56px;
+    width: 100%;
+}
+
+.key_intro{
+    position: relative;
+    top: 102px;
+    width: 100%;
+}
+
+.user_intro{
+    position: relative;
+    top: 39px;
+    width: 100%;
+}
+
+/* user div */
+.user-rel-pos-content{
+    position: relative;
+    top: 54px;
+}
+
+.user-footer{
+    position: relative;
+    top: 56px;
+}
+
+.welcome-footer{
+    position: relative;
+    top: 112px;
+}
+
+/* editor div */
+.add_book{
+    position: relative;
+    top: 75px;
+}
+.alert{
+    position: relative;
+    margin-bottom: 0px;
+    top: 55px;
+}
+
+.rel-pos-content{
+    position: relative;
+    top: 76px;
+}
+
+.editor-footer{
+    position: relative;
+    top: 96px;
+}
+
+.fs-18{
+    font-size: 18px;
+}
+
+/* admin div */
+.admin-footer{
+    position: relative;
+    top: 106px;
+}
+
+/* borrower modal-header color */
+.bor_header{
+    background-color: lightblue;
+}
+
+/* book issued div's elements */
+.w-35{
+    width: 35%;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.py-9{
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.px-12{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+/* reset elements */
+.reset_password{
+    position: relative;
+    top: 56px;
+    padding-bottom: 31px;
+    padding-top: 64px
+}
+
+.reset_card{
+    border: none;
+    max-width: 650px;
+}
+
+.reset_email_image{
+    background-image: url("../images/reset_email_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 360px;
+}
+
+.reset_password_image{
+    background-image: url("../images/reset_password_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 454px;
+}
+
+.reset-footer{
+    position: relative;
+    top: 231px;
+}
+
+.fs-17{
+    font-size: 17px;
+}
+
+.fs-26{
+    font-size: 26px;
+}
+
+/* footer elements */
+.fs-8{
+    font-size: 8px;
+}
